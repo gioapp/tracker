@@ -1,0 +1,5 @@
+github.com/aoeu/audio v0.0.0-20190530192211-0f82ce0997ed h1:75Jn2TKCksfsgZhmnj0so36t5PYhGsFUI9S1BxUk6w0=
+github.com/aoeu/audio v0.0.0-20190530192211-0f82ce0997ed/go.mod h1:ckjusJaVh82mGBOlNNM0aZFfMiWCgGj9B6/1T0BqnyQ=
+github.com/gioapp/tracker v0.0.0-20200411230526-8e008b535a2c h1:rZKVin/P/AoxKLWXidQi1CRSXlq6O37379E1IWB+WH0=
+github.com/gordonklaus/portaudio v0.0.0-20180817120803-00e7307ccd93 h1:TSG+DyZBnazM22ZHyHLeUkzM34ClkJRjIWHTq4btvek=
+github.com/gordonklaus/portaudio v0.0.0-20180817120803-00e7307ccd93/go.mod h1:HfYnZi/ARQKG0dwH5HNDmPCHdLiFiBf+SI7DbhW7et4=
